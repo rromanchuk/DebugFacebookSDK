@@ -1,5 +1,7 @@
 # DebugFacebookSDK
 
+facebook-ios-sdk fails when used on a project that uses bubblewrap.
+
 ```
 ➜  DebugFacebookSDK git:(master) ✗ rake 
      Build ./build/iPhoneSimulator-8.3-Development
